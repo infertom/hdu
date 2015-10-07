@@ -18,8 +18,17 @@
     <ClCompile Include="5402.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5486.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4804.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="in.txt" />
+    <None Include="out.txt">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
